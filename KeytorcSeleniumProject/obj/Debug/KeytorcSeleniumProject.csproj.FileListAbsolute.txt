@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\KeytorcSeleniumProject\KeytorcSeleniumProject\bin\Debug\KeytorcSeleniumProject.exe.config
+C:\Users\user\Desktop\KeytorcSeleniumProject\KeytorcSeleniumProject\bin\Debug\KeytorcSeleniumProject.exe
+C:\Users\user\Desktop\KeytorcSeleniumProject\KeytorcSeleniumProject\bin\Debug\KeytorcSeleniumProject.pdb
+C:\Users\user\Desktop\KeytorcSeleniumProject\KeytorcSeleniumProject\bin\Debug\WebDriver.dll
+C:\Users\user\Desktop\KeytorcSeleniumProject\KeytorcSeleniumProject\bin\Debug\WebDriver.xml
+C:\Users\user\Desktop\KeytorcSeleniumProject\KeytorcSeleniumProject\obj\Debug\KeytorcSeleniumProject.exe
+C:\Users\user\Desktop\KeytorcSeleniumProject\KeytorcSeleniumProject\obj\Debug\KeytorcSeleniumProject.pdb
+C:\Users\user\Desktop\KeytorcSeleniumProject\n11TestProject\KeytorcSeleniumProject\bin\Debug\KeytorcSeleniumProject.exe.config
+C:\Users\user\Desktop\KeytorcSeleniumProject\n11TestProject\KeytorcSeleniumProject\obj\Debug\KeytorcSeleniumProject.exe
+C:\Users\user\Desktop\KeytorcSeleniumProject\n11TestProject\KeytorcSeleniumProject\obj\Debug\KeytorcSeleniumProject.pdb
